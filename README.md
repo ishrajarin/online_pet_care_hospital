@@ -18,14 +18,14 @@ Here is a quick look at the app's screenshots:
 
 ##   🌟 App Features
 
-Splash Screen: A welcoming screen that sets the tone for a smooth user experience.
-User Authentication: Secure login and logout functionality for all users.
-User Registration: Easy sign-up process to create your account and access services.
-Buying Medicine Page: Browse and purchase essential medicines for your pets effortlessly.
-Appointment with Veterinary: Schedule consultations with veterinary experts at your convenience.
-Pet Grooming Services: Book professional grooming services to keep your pets looking and feeling their best.
-Accessory Buying Page: Explore a variety of pet accessories and make purchases in just a few clicks.
-Articles Page: Access informative articles to learn about pet care, health tips, and more.
+-Splash Screen: A welcoming screen that sets the tone for a smooth user experience.
+-User Authentication: Secure login and logout functionality for all users.
+-User Registration: Easy sign-up process to create your account and access services.
+-Buying Medicine Page: Browse and purchase essential medicines for your pets effortlessly.
+-Appointment with Veterinary: Schedule consultations with veterinary experts at your convenience.
+-Pet Grooming Services: Book professional grooming services to keep your pets looking and feeling their best.
+-Accessory Buying Page: Explore a variety of pet accessories and make purchases in just a few clicks.
+-Articles Page: Access informative articles to learn about pet care, health tips, and more.
 
 ###Future Features wanted to add for Hello Kitty:
  ● Video Call Consultations
