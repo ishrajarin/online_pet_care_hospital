@@ -5,7 +5,7 @@
 ---
 
 ## 🐾 About Hello Kitty  
-Hello Kitty is designed to revolutionize pet care by providing a digital platform for pet owners to connect with veterinarians, book grooming sessions, buy pet-related products, and more.  
+Hello Kitty is designed to revolutionize pet care by providing a digital platform for pet owners to connect with veterinarians,book appointments of doctor, book grooming sessions, buy pet-related products, and more.  
 
 ### Screenshots  
 Here is a quick look at the app's screenshots:  
