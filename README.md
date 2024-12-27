@@ -27,6 +27,12 @@ Appointment with Veterinary: Schedule consultations with veterinary experts at y
 Pet Grooming Services: Book professional grooming services to keep your pets looking and feeling their best.
 Accessory Buying Page: Explore a variety of pet accessories and make purchases in just a few clicks.
 Articles Page: Access informative articles to learn about pet care, health tips, and more.
+##Future Features wanted to add for Hello Kitty:
+ ● Video Call Consultations
+ ● Multi-Language Support
+ ● Advanced AI Diagnostic
+ 
+ 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
