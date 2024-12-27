@@ -17,7 +17,7 @@ Here is a quick look at the app's screenshots:
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+
 🌟 App Features
 Splash Screen: A welcoming screen that sets the tone for a smooth user experience.
 User Authentication: Secure login and logout functionality for all users.
