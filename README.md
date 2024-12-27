@@ -2,7 +2,7 @@
 
 
 
-#🐾 About Hello Kitty:
+🐾 About Hello Kitty:
 Hello Kitty is dedicated to making pet care accessible and stress-free for pet owners. Whether it’s health monitoring, consultations, or emergency assistance, our platform ensures your pets get the care they deserve, anytime, anywhere.
 
 Here is a quick look at the app's screenshots:
@@ -18,6 +18,15 @@ Here is a quick look at the app's screenshots:
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+🌟 App Features
+Splash Screen: A welcoming screen that sets the tone for a smooth user experience.
+User Authentication: Secure login and logout functionality for all users.
+User Registration: Easy sign-up process to create your account and access services.
+Buying Medicine Page: Browse and purchase essential medicines for your pets effortlessly.
+Appointment with Veterinary: Schedule consultations with veterinary experts at your convenience.
+Pet Grooming Services: Book professional grooming services to keep your pets looking and feeling their best.
+Accessory Buying Page: Explore a variety of pet accessories and make purchases in just a few clicks.
+Articles Page: Access informative articles to learn about pet care, health tips, and more.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
