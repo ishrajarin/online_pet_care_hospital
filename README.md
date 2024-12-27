@@ -2,7 +2,8 @@
 
 
 
-## Getting Started
+🐾 About Hello Kitty
+Hello Kitty is dedicated to making pet care accessible and stress-free for pet owners. Whether it’s health monitoring, consultations, or emergency assistance, our platform ensures your pets get the care they deserve, anytime, anywhere.
 ![image_alt](https://github.com/ishrajarin/online_pet_care_hospital/blob/e0f63ff9c85d59b5513df4973c909172b63fafeb/Screenshot%202024-12-26%20162031.png)
 ![image_alt](https://github.com/ishrajarin/online_pet_care_hospital/blob/9c1ea99ad1830d201fe2b357f3ca4be711c45730/Screenshot%202024-12-27%20002353.png)
 ![image_alt](https://github.com/ishrajarin/online_pet_care_hospital/blob/68376242ff4f9ec28a5332adc567bc5e7f31c140/Screenshot%202024-12-27%20002712.png)
